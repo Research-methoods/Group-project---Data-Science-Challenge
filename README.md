@@ -51,33 +51,6 @@ The final submissions were ranked according to validation performance and submit
 
 ---
 
-## Repository Structure
-
-```text
-├── data/
-│   ├── train.csv
-│   ├── test.csv
-│
-├── notebooks/
-│   ├── Data_Exploration.ipynb
-│   ├── Feature_Engineering.ipynb
-│   ├── Model_Training.ipynb
-│
-├── submissions/
-│   ├── challenge_submission_group_C_order_1.csv
-│   ├── challenge_submission_group_C_order_2.csv
-│   ├── challenge_submission_group_C_order_3.csv
-│   ├── challenge_submission_group_C_order_4.csv
-│   └── challenge_submission_group_C_order_5.csv
-│
-├── presentation/
-│   └── Group_C_Presentation.pdf
-│
-└── README.md
-```
-
----
-
 ## Technologies Used
 
 * Python
